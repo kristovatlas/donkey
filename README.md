@@ -6,7 +6,11 @@ Persists in:
 
 # Instsallation
 
-```sh
-./installer.sh
+```bash
+bash installer.sh
 ```
 
+# Uninstallation
+
+```bash
+bash uninstall.sh
