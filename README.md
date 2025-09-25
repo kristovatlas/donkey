@@ -13,4 +13,4 @@ bash installer.sh
 # Uninstallation
 
 ```bash
-bash uninstall.sh
+bash uninstaller.sh
